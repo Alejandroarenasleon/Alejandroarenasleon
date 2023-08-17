@@ -4,7 +4,7 @@
 </div>
 ---
 
-<div id="badges" aling="center">
+<div id="header" align="center">
     <a href="https://www.facebook.com/weymaralejandro.arenasleon.9">
         <img src="https://img.shields.io/badge/FACEBOOK-blue
         " alt="facebook badge">
@@ -22,3 +22,5 @@
         " alt="twitter badge">
     </a>
 </div>
+---
+
