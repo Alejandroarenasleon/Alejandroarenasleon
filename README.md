@@ -1,8 +1,6 @@
 <div id="header" aling="center">
-<img src="https://media.giphy.com/media/yX8X517TiuMwuO2tdQ/giphy.gif" width="300">
-<h1 aling="center">Hi 👋🏻, I'm Alejandro</h1>
-
-
+    <img src="https://media.giphy.com/media/yX8X517TiuMwuO2tdQ/giphy.gif" width="300">
+    <h1 aling="center">Hi 👋🏻, I'm Alejandro</h1>
 </div>
 
 
