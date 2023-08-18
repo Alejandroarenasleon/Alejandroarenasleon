@@ -22,9 +22,9 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I work as a full stack web developer
+- 📝 I study the Systems Engineering Career
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **weymararenasare676@gmail.com**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I am currently learning Web Design
 
