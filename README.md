@@ -20,3 +20,11 @@
 </div>
 ---
 
+### 👨‍💻 About Me :
+
+- 📝 I work as a full stack web developer
+
+- 📫 How to reach me **carlos.develops@gmail.com**
+
+- 🌱 I’m currently learning **React.js**
+
